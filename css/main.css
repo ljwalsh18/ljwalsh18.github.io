@@ -1,3 +1,7 @@
 body {
-	width: 50%;
+	width:50%;
+}
+ul {
+	list-style:none;
+	font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
