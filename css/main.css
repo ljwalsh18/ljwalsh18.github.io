@@ -8,6 +8,11 @@ h1 {
     font-family: arial;
 }
 
+h2 {
+    text-align: center;
+    font-family: arial;
+}
+
 div#mainContent {
     background-color: white;
     margin:10%;
