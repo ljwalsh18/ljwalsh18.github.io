@@ -1,4 +1,8 @@
 body {
+
+}
+
+div#main {
+    background-color:red;
     margin:20%;
-    background-color:blue;
 }
